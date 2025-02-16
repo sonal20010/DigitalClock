@@ -1,6 +1,6 @@
 import java.util.Calendar;
 
-public class Main {
+public class DigitalClock {
 
     public static void main(String[] args) {
         while (true) {
